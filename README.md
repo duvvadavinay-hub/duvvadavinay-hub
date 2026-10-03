@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vinay-duvvada">
+<a href="https://www.linkedin.com/in/vinay-duvvada-508850389" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 
