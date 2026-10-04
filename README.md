@@ -291,12 +291,11 @@ A collaborative web application created for a **Tennis League Auction in Bhimava
 <br>
 
 ---
-
 <!-- PROJECT 04 -->
 
 <div align="center">
 
-<a href="https://github.com/duvvadavinay-hub">
+<a href="https://my-portfolio-fzyowpsjh-vinay-fa10.vercel.app">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:171717,100:2A2A2A&height=100&section=header&text=MY%20PORTFOLIO%20WEBSITE&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
 
@@ -308,9 +307,16 @@ A collaborative web application created for a **Tennis League Auction in Bhimava
 
 A personal digital portfolio showcasing my **projects, skills, development journey, UI/UX interests and creative work**.
 
-<a href="https://github.com/duvvadavinay-hub">
-<img src="https://img.shields.io/badge/💻%20GITHUB%20PROFILE-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://my-portfolio-fzyowpsjh-vinay-fa10.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-FF0000?style=for-the-badge&logoColor=white"/>
 </a>
+
+</div>
+
+<br>
+
+---
+
 
 </div>
 
