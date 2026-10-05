@@ -272,7 +272,7 @@ An academic-focused web project designed and developed independently from concep
 
 <a href="https://tennis-p7lb.onrender.com/">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:171717,100:2A2A2A&height=100&section=header&text=TENnIS%20LEAGUE%20AUCTION&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:171717,100:2A2A2A&height=100&section=header&text=TENNIS%20LEAGUE%20AUCTION&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
 
 </a>
 
